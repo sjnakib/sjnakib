@@ -1,4 +1,4 @@
-Assalamu-alaikum & Hi there! 👋
+# Assalamu-alaikum & Hi there! 👋
 
 I'm Shafaat Jamil Nakib — a Full-Stack Developer building production-grade web apps with Next.js, React, TypeScript, Node.js, and PostgreSQL.
 
